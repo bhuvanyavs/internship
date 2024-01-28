@@ -5,7 +5,7 @@
 ### DAY-1: 3D DESIGNING IN TINKERCAD AND WEBSITE LINK CREATION IN GITHUB
 1. TINKERCAD CREATION : ![IMAGE](https://github.com/bhuvanyavs/internship/blob/main/index/Screenshot%202024-01-28%20214138.png)
 ### DAY-2: INDUSTRIAL ROBOTS
-1. YASKAWA ONLINE COURSE COMPLETION : ![CERTIFICATE]
+1. YASKAWA ONLINE COURSE COMPLETION : ![CERTIFICATE](https://github.com/bhuvanyavs/internship/blob/main/index/yaskawa%20course%20completion%20certificate.pdf)
 
 
 
