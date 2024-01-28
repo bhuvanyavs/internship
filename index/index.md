@@ -6,6 +6,7 @@
 1. TINKERCAD CREATION : ![IMAGE](https://github.com/bhuvanyavs/internship/blob/main/index/Screenshot%202024-01-28%20214138.png)
 ### DAY-2: INDUSTRIAL ROBOTS
 1. YASKAWA ONLINE COURSE COMPLETION : ![CERTIFICATE](https://github.com/bhuvanyavs/internship/blob/main/index/yaskawa%20course%20completion%20certificate.pdf)
+# TO BE CONTINUED....
 
 
 
